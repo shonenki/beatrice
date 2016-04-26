@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 melonJS boilerplate
 -------------------------------------------------------------------------------
 
@@ -36,3 +37,7 @@ Note that you may have to edit the file `Gruntfile.js` if you need to better dic
 -------------------------------------------------------------------------------
 Copyright (C) 2011 - 2014 Olivier Biot, Jason Oster, Aaron McLeod
 melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
+=======
+# beatrice
+Beatrice, HTML5 Video Game developed for the Caracas Game Jam 2016
+>>>>>>> 8a1d90efa864b242bd56135af67f7c1d9f13ea1c
